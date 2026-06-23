@@ -1,0 +1,6 @@
+- Se corrigieron los errores de conexión.
+- Se añadieron nuevos comandos de voz.
+- Optimización general del código.
+- Se corrigieron los errores de conexión.
+- Se añadieron nuevos comandos de voz.
+- Optimización general del código.
